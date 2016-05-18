@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[righteous intelligence]]></title>
+        <description><![CDATA[righteous intelligence]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 18 May 2016 17:52:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Who is eligible for medical marijuana?]]></title>
+            <description><![CDATA[<article><h1>Who is eligible for medical marijuana?</h1><p>Patients with any of the medical conditions below are eligible for medical marijuana under the Marijuana for Medical Purposes Regulation (MMPR).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c659b68cc8327ef6c5d7ca02d0c460e7ae4943d.jpg"></article>]]></description>
+            <link>https://medicalmarijuanaservices.ca/patients/</link>
+            <guid isPermaLink="false">cb632af0-61e0-465a-a2c4-b3df881e6753</guid>
+            <pubDate>Wed, 18 May 2016 17:52:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

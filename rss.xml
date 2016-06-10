@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[righteous intelligence]]></title>
         <description><![CDATA[righteous intelligence]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/righteous-intelligence/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 17:52:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 10 Jun 2016 22:10:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/righteous-intelligence/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Vancouver Island man upset after medical marijuana seized at post office]]></title>
+            <description><![CDATA[<article><h1>Vancouver Island man upset after medical marijuana seized at post office</h1><p>A Vancouver Island man says he is caught between new rules and an old system still working through the court system after medical marijuana he tried to send by mail was seized. Last week, Ryan Malazdrewicz of Ucluelet, B.C., tried to ship a small package containing pot to his wife who is away visiting family in Alberta.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d84b4253875875ffd854dbb8b533e7ac27288469.jpg"></article>]]></description>
+            <link>http://www.cbc.ca/beta/news/canada/british-columbia/ucluelet-man-upset-after-medical-pot-seized-1.3348150</link>
+            <guid isPermaLink="false">2625d04a-3227-4084-b315-8fe41b2b2d08</guid>
+            <pubDate>Fri, 10 Jun 2016 22:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[THIS IS WHAT 50 YEARS OF SMOKING CANNABIS DOES TO THE HUMAN BODY]]></title>
+            <description><![CDATA[<article><h1>THIS IS WHAT 50 YEARS OF SMOKING CANNABIS DOES TO THE HUMAN BODY</h1><p>For the last 50 years, Catherine Hiller has smoked marijuana on a more or less daily basis. There's been no struggle, no spiralling downfall to her life, just a few good memories and a healthy looking body to blame for her drug use.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef4d250271907be1b291896e94ac476d6aa9ba57.jpg"></article>]]></description>
+            <link>http://healingbright.com/this-is-what-50-years-of-smoking-cannabis-does-to-the-human-body/</link>
+            <guid isPermaLink="false">7ee703ae-b80a-4297-90e3-812cc74e60cf</guid>
+            <pubDate>Wed, 18 May 2016 17:52:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Who is eligible for medical marijuana?]]></title>
             <description><![CDATA[<article><h1>Who is eligible for medical marijuana?</h1><p>Patients with any of the medical conditions below are eligible for medical marijuana under the Marijuana for Medical Purposes Regulation (MMPR).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c659b68cc8327ef6c5d7ca02d0c460e7ae4943d.jpg"></article>]]></description>
